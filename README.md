@@ -26,9 +26,9 @@ This project is split into three separate repositories, each containing a specif
 
 | Component | Description | Repository Link |
 | :--- | :--- | :---: |
-| 🖥️ **Backend** | Contains all the microservices built with ASP.NET Core, the API Gateway, and the logic for data processing and persistence. | **[Frontend Repo](https://github.com/ccaesar26/FarmDotNetApi)** |
-| 🌐 **Frontend** | The Angular single-page application for farm managers, featuring dashboards, maps, and management tools. | **[Backend Repo](https://github.com/ccaesar26/FarmWebUI)** |
-| 📱 **Mobile** | The native Android application for field workers, built with Kotlin and Jetpack Compose. | **[Mobile Repo](https://github.com/ccaesar26/FarmMobileApp)** |
+| 🖥️ **Backend** | Contains all the microservices built with ASP.NET Core, the API Gateway, and the logic for data processing and persistence. | **[Backend Repository](https://github.com/ccaesar26/FarmDotNetApi)** |
+| 🌐 **Frontend** | The Angular single-page application for farm managers, featuring dashboards, maps, and management tools. | **[Frontend Repository](https://github.com/ccaesar26/FarmWebUI)** |
+| 📱 **Mobile** | The native Android application for field workers, built with Kotlin and Jetpack Compose. | **[Mobile Repository](https://github.com/ccaesar26/FarmMobileApp)** |
 
 ### High-Level Architecture
 
